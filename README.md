@@ -1,5 +1,5 @@
-### Hi there 👋, My name is Stiven Trizky Katuuk
-## I'm Web Developers
+# Hi there 👋, My name is Stiven Trizky Katuuk
+### I'm Web Developers, so u can hire me right now to your project
 
 <!--
 **pemudakoding/pemudakoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
