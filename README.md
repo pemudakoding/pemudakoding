@@ -11,9 +11,10 @@
 <img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
 
 <p>
-  
+
 - Currently working with <a href="https://www.simajji.com/" target="_blank">Simajji Concept</a> as a Software Engineer. 🏥
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
+
 </p>
 
 ---
