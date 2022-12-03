@@ -3,7 +3,7 @@
 <h3 align="center">PHP software engineer that entusiast with Software Architecture, Design System and Clean Code</h3>
 
 ## Dynamic Quotes 📜:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
