@@ -65,11 +65,15 @@
   
 ![Profile views](https://gpvc.arturio.dev/pemudakoding)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pemudakoding&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pemudakoding&theme=chartreuse-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pemudakoding&theme=default" />
+  <img alt="Github most language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemudakoding&theme=chartreuse-dark" />
+</picture>
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=pemudakoding&theme=chartreuse-dark&no-frame=true" /></p>
+ <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=pemudakoding&theme=chartreuse-dark&no-frame=true" /></p>
 </details>
 
   
