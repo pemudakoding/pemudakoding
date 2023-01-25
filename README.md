@@ -21,7 +21,11 @@
 
 ---
 
-<img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Images/coding_2.gif">
+  <source media="(prefers-color-scheme: light)" srcset="/Images/coding.gif" />
+  <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
+</picture>
 
 <h3 align="left">Interests:</h3>
 
