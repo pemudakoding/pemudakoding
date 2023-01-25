@@ -95,7 +95,6 @@
    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pemudakoding&theme=default" />
    <img width="48%" alt="Github most language" src="https://github-readme-streak-stats.herokuapp.com/?user=pemudakoding&theme=chartreuse-dark" />
  </picture>
-
 </p>  
 
 <a href="https://gitstalk.netlify.app/pemudakoding/" target="_blank"> See My Latest Activities Here</a>
@@ -120,7 +119,11 @@
 ![snake gif](https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-contribution-grid-snake.svg)
 
 ## Have a Smiley Day...😃 :<br>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=vue" />
+  <img alt="Jokes" src="https://readme-jokes.vercel.app/api" />
+</picture>
   
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
