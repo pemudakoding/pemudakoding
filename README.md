@@ -1,6 +1,8 @@
-<h1 align="center">Hey there, Stiven Trizky Katuuk<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
-<h3 align="center">PHP software engineer that entusiast with Software Architecture, Design System and Clean Code</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/Images/dark_github.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/Images/dark_github.svg" />
+  <img alt="Stiven Trizky Katuuk" src="/Images/dark_github.svg" width="100%" />
+</picture>
 
 ## Dynamic Quotes 📜:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
