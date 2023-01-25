@@ -32,7 +32,7 @@ jobs:
           github_user_name: mishmanners
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake.svg?palette=github-light
             dist/github-snake-dark.svg?palette=github-dark
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
