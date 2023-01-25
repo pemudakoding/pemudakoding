@@ -84,13 +84,24 @@
   
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pemudakoding&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pemudakoding&theme=chartreuse-dark" />
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pemudakoding&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true">
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pemudakoding&show_icons=true&theme=default&count_private=true&include_all_commits=true" />
+   <img width="48%" alt="Github most language" src="https://github-readme-stats.vercel.app/api?username=pemudakoding&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" />
+ </picture>
+  
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pemudakoding&theme=chartreuse-dark">
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pemudakoding&theme=default" />
+   <img width="48%" alt="Github most language" src="https://github-readme-streak-stats.herokuapp.com/?user=pemudakoding&theme=chartreuse-dark" />
+ </picture>
+
 </p>  
 
 <a href="https://gitstalk.netlify.app/pemudakoding/" target="_blank"> See My Latest Activities Here</a>
-  
 
+<br />
+<br />
 <img src ="Images/social_dashboard.svg" align = "left" width = 50%>
 <div>
 <h2  > Connect with me</h2>
